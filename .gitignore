@@ -6,3 +6,7 @@ data/spectrograms/*
 results/*
 *.pyc
 .DS_Store
+
+# keep aggregated summaries
+!results/summary.md
+!results/summary.csv
