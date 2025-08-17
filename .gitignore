@@ -10,3 +10,9 @@ results/*
 # keep aggregated summaries
 !results/summary.md
 !results/summary.csv
+
+# model checkpoints
+models/*.pt
+
+# model checkpoints
+models/*.pt
