@@ -16,3 +16,6 @@ models/*.pt
 
 # model checkpoints
 models/*.pt
+!results/summary.md
+!results/summary.csv
+!results/test_*.json
