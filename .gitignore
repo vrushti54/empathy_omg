@@ -21,3 +21,6 @@ models/*.pt
 !results/test_*.json
 
 data/labels/*.csv
+/omg_dataset/
+/data/raw/
+/data/features/**.wav
